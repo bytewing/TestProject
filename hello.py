@@ -1,2 +1,2 @@
-#Sridhar Narayan
+#@author
 print("Hello, world, bytewing!")
